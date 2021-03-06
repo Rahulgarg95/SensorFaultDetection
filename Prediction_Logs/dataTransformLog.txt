@@ -1,0 +1,29 @@
+2021-03-06/13:05:20		Data Transformation failed because:: 'dataTransformPredict' object has no attribute 'awsObj'
+2021-03-06/13:08:46		Data Transformation failed because:: [Errno 2] No such file or directory: 'Prediction_Good_Raw_Files_Validated/wafer_13012020_090817.csv'
+2021-03-06/13:18:56		 wafer_13012020_090817.csv: File Transformed successfully!!
+2021-03-06/13:18:58		 wafer_16012020_051629.csv: File Transformed successfully!!
+2021-03-06/13:18:58		 wafer_20022020_090716.csv: File Transformed successfully!!
+2021-03-06/13:19:00		 wafer_21012020_080913.csv: File Transformed successfully!!
+2021-03-06/13:19:02		 wafer_23012020_041211.csv: File Transformed successfully!!
+2021-03-06/13:19:03		 wafer_27012020_080911.csv: File Transformed successfully!!
+2021-03-06/13:19:04		 wafer_28012020_090817.csv: File Transformed successfully!!
+2021-03-06/13:19:06		 wafer_28042020_031911.csv: File Transformed successfully!!
+2021-03-06/13:19:06		 wafer_29012020_050617.csv: File Transformed successfully!!
+2021-03-06/13:37:11		 wafer_13012020_090817.csv: File Transformed successfully!!
+2021-03-06/13:37:13		 wafer_16012020_051629.csv: File Transformed successfully!!
+2021-03-06/13:37:14		 wafer_20022020_090716.csv: File Transformed successfully!!
+2021-03-06/13:37:16		 wafer_21012020_080913.csv: File Transformed successfully!!
+2021-03-06/13:37:17		 wafer_23012020_041211.csv: File Transformed successfully!!
+2021-03-06/13:37:18		 wafer_27012020_080911.csv: File Transformed successfully!!
+2021-03-06/13:37:19		 wafer_28012020_090817.csv: File Transformed successfully!!
+2021-03-06/13:37:21		 wafer_28042020_031911.csv: File Transformed successfully!!
+2021-03-06/13:37:22		 wafer_29012020_050617.csv: File Transformed successfully!!
+2021-03-06/15:13:00		 wafer_13012020_090817.csv: File Transformed successfully!!
+2021-03-06/15:13:01		 wafer_16012020_051629.csv: File Transformed successfully!!
+2021-03-06/15:13:02		 wafer_20022020_090716.csv: File Transformed successfully!!
+2021-03-06/15:13:03		 wafer_21012020_080913.csv: File Transformed successfully!!
+2021-03-06/15:13:04		 wafer_23012020_041211.csv: File Transformed successfully!!
+2021-03-06/15:13:06		 wafer_27012020_080911.csv: File Transformed successfully!!
+2021-03-06/15:13:07		 wafer_28012020_090817.csv: File Transformed successfully!!
+2021-03-06/15:13:09		 wafer_28042020_031911.csv: File Transformed successfully!!
+2021-03-06/15:13:10		 wafer_29012020_050617.csv: File Transformed successfully!!

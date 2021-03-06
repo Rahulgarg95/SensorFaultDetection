@@ -1,0 +1,80 @@
+2021-03-04/16:48:04		Single File Not provided hence bulk upload mode
+2021-03-04/16:48:26		Bulk file upload done
+2021-03-04/16:51:06		Single File Not provided hence bulk upload mode
+2021-03-04/16:51:29		Bulk file upload done
+2021-03-04/17:12:20		Single File Not provided hence bulk upload mode
+2021-03-04/17:12:44		Bulk file upload done
+2021-03-04/17:19:46		Required Folder: Training_Batch_Files created
+2021-03-04/17:19:46		Single File Not provided hence bulk upload mode
+2021-03-04/17:20:11		Bulk file upload done
+2021-03-04/17:21:02		File Name Not Provided, loading all files from Training_Batch_Files to dataframe
+2021-03-04/17:21:21		Dataframe created from folder: Training_Batch_Files.Total Records: 100 Total Columns: 100
+2021-03-04/17:21:59		Single File Not provided hence bulk upload mode
+2021-03-04/17:22:22		Bulk file upload done
+2021-03-04/17:22:22		File Name Not Provided, loading all files from Training_Batch_Files to dataframe
+2021-03-04/17:22:39		Dataframe created from folder: Training_Batch_Files.Total Records: 3980 Total Columns: 3980
+2021-03-04/17:25:58		File Name Not Provided, loading all files from Training_Batch_Files to dataframe
+2021-03-04/17:26:21		Dataframe created from folder: Training_Batch_Files.Total Records: 3980 Total Columns: 3980
+2021-03-04/18:17:28		Required Folder: Good_Raw_Pred_Raw_Files_Validated created
+2021-03-04/18:17:28		Required Folder: Bad_Raw_Pred_Raw_Files_Validated created
+2021-03-04/19:00:09		Required Folder: Training_Good_Raw_Files_Validated created
+2021-03-04/19:00:09		Required Folder: Training_Bad_Raw_Files_Validated created
+2021-03-04/19:00:09		Single File Not provided hence bulk upload mode
+2021-03-04/19:02:05		Required Folder: Training_Good_Raw_Files_Validated created
+2021-03-04/19:02:05		Required Folder: Training_Bad_Raw_Files_Validated created
+2021-03-04/19:02:06		Single File Not provided hence bulk upload mode
+2021-03-04/19:02:26		Bulk file upload done
+2021-03-04/19:06:54		Required Folder: Training_Good_Raw_Files_Validated created
+2021-03-04/19:06:54		Required Folder: Training_Bad_Raw_Files_Validated created
+2021-03-04/19:06:54		Single File Not provided hence bulk upload mode
+2021-03-04/19:07:16		Bulk file upload done
+2021-03-04/19:25:44		Required Folder: Training_Good_Raw_Files_Validated created
+2021-03-04/19:25:44		Required Folder: Training_Bad_Raw_Files_Validated created
+2021-03-04/19:25:44		Single File Not provided hence bulk upload mode
+2021-03-04/19:26:05		Bulk file upload done
+2021-03-04/19:50:39		Required Folder: Training_Good_Raw_Files_Validated created
+2021-03-04/19:50:39		Required Folder: Training_Bad_Raw_Files_Validated created
+2021-03-04/19:50:39		Single File Not provided hence bulk upload mode
+2021-03-04/19:51:07		Bulk file upload done
+2021-03-04/20:14:53		Required Folder: Training_Good_Raw_Files_Validated created
+2021-03-04/20:14:54		Required Folder: Training_Bad_Raw_Files_Validated created
+2021-03-04/20:14:54		Single File Not provided hence bulk upload mode
+2021-03-04/20:15:17		Bulk file upload done
+2021-03-05/19:43:52		Required Folder: Training_Good_Raw_Files_Validated created
+2021-03-05/19:43:52		Required Folder: Training_Bad_Raw_Files_Validated created
+2021-03-05/19:43:53		Single File Not provided hence bulk upload mode
+2021-03-05/19:44:20		Bulk file upload done
+2021-03-05/20:01:34		Required Folder: Training_Good_Raw_Files_Validated created
+2021-03-05/20:01:34		Required Folder: Training_Bad_Raw_Files_Validated created
+2021-03-05/20:02:22		Required Folder: Training_FileFromDB created
+2021-03-05/21:18:09		Required Folder: Training_Good_Raw_Files_Validated created
+2021-03-05/21:18:09		Required Folder: Training_Bad_Raw_Files_Validated created
+2021-03-05/21:19:01		Folder: Training_FileFromDB already present in bucket
+2021-03-05/21:30:43		Object Loaded to File: K-Means_Elbow.PNG
+2021-03-05/21:36:33		Object Loaded to File: K-Means_Elbow.PNG
+2021-03-05/22:41:54		Object Loaded to File: K-Means_Elbow.PNG
+2021-03-05/22:41:55		Object Loaded to File: KMeans.sav
+2021-03-05/22:51:59		Object Loaded to File: K-Means_Elbow.PNG
+2021-03-05/23:03:29		Object Loaded to File: RandomForest0.sav
+2021-03-05/23:05:27		Object Loaded to File: RandomForest1.sav
+2021-03-05/22:55:26		Object Loaded to File: K-Means_Elbow.PNG
+2021-03-05/22:55:27		Object Loaded to File: KMeans.sav
+2021-03-05/23:08:49		Object Loaded to File: RandomForest2.sav
+2021-03-06/13:04:37		Required Folder: Prediction_Good_Raw_Files_Validated created
+2021-03-06/13:04:37		Required Folder: Prediction_Bad_Raw_Files_Validated created
+2021-03-06/13:04:37		Required Folder: Prediction_Batch_files created
+2021-03-06/13:04:37		Single File Not provided hence bulk upload mode
+2021-03-06/13:04:45		Bulk file upload done
+2021-03-06/13:07:58		Required Folder: Prediction_Good_Raw_Files_Validated created
+2021-03-06/13:07:58		Required Folder: Prediction_Bad_Raw_Files_Validated created
+2021-03-06/13:07:58		Single File Not provided hence bulk upload mode
+2021-03-06/13:08:07		Bulk file upload done
+2021-03-06/13:18:25		Required Folder: Prediction_Good_Raw_Files_Validated created
+2021-03-06/13:18:26		Required Folder: Prediction_Bad_Raw_Files_Validated created
+2021-03-06/13:19:15		Required Folder: Prediction_FileFromDB created
+2021-03-06/13:36:40		Required Folder: Prediction_Good_Raw_Files_Validated created
+2021-03-06/13:36:40		Required Folder: Prediction_Bad_Raw_Files_Validated created
+2021-03-06/13:37:29		Folder: Prediction_FileFromDB already present in bucket
+2021-03-06/15:12:27		Required Folder: Prediction_Good_Raw_Files_Validated created
+2021-03-06/15:12:27		Required Folder: Prediction_Bad_Raw_Files_Validated created
+2021-03-06/15:13:16		Folder: Prediction_FileFromDB already present in bucket
